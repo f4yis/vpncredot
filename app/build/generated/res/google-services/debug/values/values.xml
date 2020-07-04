@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1011295208291-faidal6ilhs6k4bqk96p7e2ud7b9ptmt.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vpn-2019-7b443.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1011295208291</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4MkvLH2oHBFWBTqWODyqZ-924taFvNbk</string>
+    <string name="google_app_id" translatable="false">1:1011295208291:android:6d51645ce8269279</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4MkvLH2oHBFWBTqWODyqZ-924taFvNbk</string>
+    <string name="google_storage_bucket" translatable="false">vpn-2019-7b443.appspot.com</string>
+    <string name="project_id" translatable="false">vpn-2019-7b443</string>
+</resources>

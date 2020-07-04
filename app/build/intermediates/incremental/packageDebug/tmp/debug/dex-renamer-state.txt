@@ -1,0 +1,4 @@
+#Tue Jun 02 10:49:50 IST 2020
+base.0=/Users/fayis/Downloads/Pro VPN 2019 Android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

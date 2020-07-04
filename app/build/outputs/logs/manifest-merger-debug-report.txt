@@ -1,0 +1,627 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:1-121:12
+MERGED from [devlight.io:navigationtabbar:1.2.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/navigationtabbar-1.2.5.aar/809fca5afb8a73c4bac16c9897bdf4a6/AndroidManifest.xml:14:1-28:12
+MERGED from [com.android.support:design:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/257cd11387c4a96d153eaa23e920971c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/1850e7a81847fc7f95b58a734296768f/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-DecoView-charting-v1.2.aar/e174f54c0de266a7f3dd0c545825ec14/AndroidManifest.xml:2:1-14:12
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/510ab3d37ef30acc50664f054abde771/AndroidManifest.xml:2:1-17:12
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/FancyToast-Android-0.1.3.aar/629aedace95d82b358bb125eb1067c39/AndroidManifest.xml:2:1-17:12
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.2.5.aar/ce6fd428dc35d0bdeaa60a354e1fda82/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.Shashank02051997:FancyAlertDialog-Android:0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/FancyAlertDialog-Android-0.1.aar/6aa5ea44a753257583c5ebde181a998d/AndroidManifest.xml:2:1-11:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/c54e22c73955939a56e22bb8e830c487/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a183973d843f85803acf48f877be479d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/db181d6bb59a51ac2b0d8ee61ada8172/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/5500d20c4b3147701ca8f830ed738bb6/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/00de4b03340a00f5ae2a715578bfc56a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/bdeea45b04e67add74740a4c585728b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f14a2262727cc02c81e8278caed991f1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2bbd99f5c59811e5263749fe4a08bd19/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3209218b4f2dbc45620f5c9da040446f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8c07b201af7890e3daa7c61c642a3293/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a8fe17e1d4961c9dc7af6c469cf3fd25/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/1d7ce2053e4761e45c05d3cd55d581dc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/89cca38be9ff5bb63a035ef8a407dd2f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c9f3652a37828414e6931d945302371a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/59b5a0c9aba4c1f8811c09a30218d106/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9021f943d5bfc620fe28b29c8ae75981/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/e7ae8d502141cb0295601e7032abb1e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.daimajia.numberprogressbar:library:1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/bff336b9ba42ec90d2f07af4e37f8dc4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.amitshekhar.android:android-networking:0.2.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-networking-0.2.0.aar/ef503b90ce96ae2c65da202c9ede7ad9/AndroidManifest.xml:18:1-33:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c246a05488bfba208f21bbfe6516462/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:1.2.8] /Users/fayis/.gradle/caches/transforms-1/files-1.1/Circle-Progress-View-1.2.8.aar/03ac0b8bc0a716bae370ad34716e8eac/AndroidManifest.xml:2:1-13:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/2df286d9edc144a7b3c497d25051b3ec/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/3a9e2f693fb33be8d086c99924e1e4f4/AndroidManifest.xml:1:70-7:12
+MERGED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:2:1-19:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.4.aar/2c6c1781996769ad4c831e36325da8fb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.cardiomood.android:android-widgets:0.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-widgets-0.1.1.aar/5cdf23dc49f45cba45816ef3e923d6c1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/6f17b873db65f298b018f41616458005/AndroidManifest.xml:2:1-13:12
+MERGED from [com.zys:brokenview:1.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/brokenview-1.0.3.aar/608b72905b63cbe938ce1bca088de2e2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/40112b5c6ebe640617581254ee391ac7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5d6b53813e6e328b78a4694bb3f445f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f4f1e771929163de41751cf4e0fa46b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/823716c68a5ad1f393aeb135a0943c83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0c810234e1cbbe0ef189664a8911ebd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/05fccca9c81738f1f4ca248f2bd109de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7bff45573ba3c73a88c27312fb4e8823/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2f7ed736afc70b4ab79eec270e8dff20/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f53c43af1d3430a399b0e9b4cd572a76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0cb7e7db4270cabca538393543fd5358/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/02bc017e5b42edef277fe3e9ff0b9270/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/15667a3b7eab596bc781553afdf9c69b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03d6b4d85826a158565867303bbc6464/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2d94fc9f6402d0be74ed7e0637a6362d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:1-121:12
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:1-121:12
+	package
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:1-121:12
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:1-121:12
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:8:22-71
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:13:5-85
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:13:22-82
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:14:5-77
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:14:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:15:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:15:22-65
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:16:22-75
+uses-permission#com.android.vending.BILLING
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:18:5-84
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:18:22-81
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:19:5-21:47
+	tools:ignore
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:20:9-57
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:23:22-75
+application
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:25:5-119:19
+MERGED from [devlight.io:navigationtabbar:1.2.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/navigationtabbar-1.2.5.aar/809fca5afb8a73c4bac16c9897bdf4a6/AndroidManifest.xml:23:5-26:38
+MERGED from [devlight.io:navigationtabbar:1.2.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/navigationtabbar-1.2.5.aar/809fca5afb8a73c4bac16c9897bdf4a6/AndroidManifest.xml:23:5-26:38
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/1850e7a81847fc7f95b58a734296768f/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/1850e7a81847fc7f95b58a734296768f/AndroidManifest.xml:13:5-20
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-DecoView-charting-v1.2.aar/e174f54c0de266a7f3dd0c545825ec14/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-DecoView-charting-v1.2.aar/e174f54c0de266a7f3dd0c545825ec14/AndroidManifest.xml:11:5-12:19
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/510ab3d37ef30acc50664f054abde771/AndroidManifest.xml:11:5-15:19
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/510ab3d37ef30acc50664f054abde771/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/FancyToast-Android-0.1.3.aar/629aedace95d82b358bb125eb1067c39/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/FancyToast-Android-0.1.3.aar/629aedace95d82b358bb125eb1067c39/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/5500d20c4b3147701ca8f830ed738bb6/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/5500d20c4b3147701ca8f830ed738bb6/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/00de4b03340a00f5ae2a715578bfc56a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/00de4b03340a00f5ae2a715578bfc56a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/bdeea45b04e67add74740a4c585728b5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/bdeea45b04e67add74740a4c585728b5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f14a2262727cc02c81e8278caed991f1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f14a2262727cc02c81e8278caed991f1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2bbd99f5c59811e5263749fe4a08bd19/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2bbd99f5c59811e5263749fe4a08bd19/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3209218b4f2dbc45620f5c9da040446f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3209218b4f2dbc45620f5c9da040446f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8c07b201af7890e3daa7c61c642a3293/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8c07b201af7890e3daa7c61c642a3293/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a8fe17e1d4961c9dc7af6c469cf3fd25/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a8fe17e1d4961c9dc7af6c469cf3fd25/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/1d7ce2053e4761e45c05d3cd55d581dc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/1d7ce2053e4761e45c05d3cd55d581dc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/89cca38be9ff5bb63a035ef8a407dd2f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/89cca38be9ff5bb63a035ef8a407dd2f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.amitshekhar.android:android-networking:0.2.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-networking-0.2.0.aar/ef503b90ce96ae2c65da202c9ede7ad9/AndroidManifest.xml:27:5-31:19
+MERGED from [com.amitshekhar.android:android-networking:0.2.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-networking-0.2.0.aar/ef503b90ce96ae2c65da202c9ede7ad9/AndroidManifest.xml:27:5-31:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c246a05488bfba208f21bbfe6516462/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c246a05488bfba208f21bbfe6516462/AndroidManifest.xml:9:5-20
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:1.2.8] /Users/fayis/.gradle/caches/transforms-1/files-1.1/Circle-Progress-View-1.2.8.aar/03ac0b8bc0a716bae370ad34716e8eac/AndroidManifest.xml:11:5-20
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:1.2.8] /Users/fayis/.gradle/caches/transforms-1/files-1.1/Circle-Progress-View-1.2.8.aar/03ac0b8bc0a716bae370ad34716e8eac/AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/2df286d9edc144a7b3c497d25051b3ec/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/2df286d9edc144a7b3c497d25051b3ec/AndroidManifest.xml:9:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/3a9e2f693fb33be8d086c99924e1e4f4/AndroidManifest.xml:5:5-19
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/3a9e2f693fb33be8d086c99924e1e4f4/AndroidManifest.xml:5:5-19
+MERGED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:11:5-17:19
+MERGED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:11:5-17:19
+MERGED from [com.cardiomood.android:android-widgets:0.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-widgets-0.1.1.aar/5cdf23dc49f45cba45816ef3e923d6c1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.cardiomood.android:android-widgets:0.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-widgets-0.1.1.aar/5cdf23dc49f45cba45816ef3e923d6c1/AndroidManifest.xml:11:5-12:19
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/6f17b873db65f298b018f41616458005/AndroidManifest.xml:11:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/6f17b873db65f298b018f41616458005/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2f7ed736afc70b4ab79eec270e8dff20/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2f7ed736afc70b4ab79eec270e8dff20/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0cb7e7db4270cabca538393543fd5358/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0cb7e7db4270cabca538393543fd5358/AndroidManifest.xml:7:5-20
+	android:supportsRtl
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:32:9-35
+	android:label
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:30:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:28:9-44
+	tools:ignore
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:34:9-48
+	android:largeHeap
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:31:9-33
+	android:icon
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:29:9-43
+	android:allowBackup
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:27:9-35
+	android:theme
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:33:9-40
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:26:9-38
+activity#com.abc.premiumvpn.activity.SpeedTest2
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:35:9-42:20
+	android:label
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:37:13-63
+	android:theme
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:36:13-48
+activity#com.abc.premiumvpn.activity.SplashActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:43:9-46:45
+	android:noHistory
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:45:13-37
+	android:theme
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:46:13-42
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:44:13-52
+activity#com.abc.premiumvpn.activity.MainActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:47:9-49:41
+	android:label
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:49:13-29
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:48:13-50
+activity#com.abc.premiumvpn.activity.VPNListActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:50:9-62
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:50:19-59
+activity#com.abc.premiumvpn.activity.VPNInfoActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:51:9-53:46
+	android:launchMode
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:53:13-43
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:52:13-53
+activity#com.abc.premiumvpn.activity.SettingsActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:54:9-57:40
+	android:label
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:56:13-52
+	android:noHistory
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:55:13-54
+service#de.blinkt.openvpn.core.OpenVPNService
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:59:9-65:19
+	android:permission
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:61:13-69
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:60:13-65
+intent-filter#action:name:android.net.VpnService
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:62:13-64:29
+action#android.net.VpnService
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:63:17-65
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:63:25-62
+activity#com.abc.premiumvpn.activity.SpeedTestActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:67:9-69:42
+	android:label
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:69:13-39
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:68:13-55
+activity#com.abc.premiumvpn.activity.TOSActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:70:9-72:48
+	android:theme
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:71:13-49
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:73:9-76:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:75:13-122
+	android:theme
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:76:13-61
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:74:13-65
+activity#com.abc.premiumvpn.activity.StepActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:77:9-85:20
+	android:theme
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:79:13-42
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:78:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:80:13-84:29
+action#android.intent.action.MAIN
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:81:17-69
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:81:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:83:27-74
+activity#com.abc.premiumvpn.activity.UserActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:86:9-68
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:86:19-56
+activity#com.abc.premiumvpn.activity.ProActivitySuccess
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:87:9-65
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:87:19-62
+activity#com.abc.premiumvpn.activity.ProActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:88:9-58
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:88:19-55
+activity#com.abc.premiumvpn.activity.FragmentWrapperActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:89:9-70
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:89:19-67
+activity#com.abc.premiumvpn.activity.Black_Battery_Saver
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:90:9-66
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:90:19-63
+activity#com.abc.premiumvpn.activity.Apps_Picker
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:91:9-58
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:91:19-55
+activity#com.abc.premiumvpn.activity.NormalMode
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:92:9-57
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:92:19-54
+activity#com.abc.premiumvpn.activity.PopUp_SavingPower
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:93:9-64
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:93:19-61
+activity#com.abc.premiumvpn.activity.Saving_Power_Comp
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:94:9-64
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:94:19-61
+activity#com.abc.premiumvpn.activity.UApplying
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:95:9-56
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:95:19-53
+activity#com.abc.premiumvpn.activity.UPopUp
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:96:9-53
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:96:19-50
+activity#com.abc.premiumvpn.activity.ScannerCPU
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:97:9-57
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:97:19-54
+activity#com.abc.premiumvpn.activity.HorizontalNtbActivity
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:98:9-68
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:98:19-65
+meta-data#com.google.android.gms.version
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:100:9-102:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/89cca38be9ff5bb63a035ef8a407dd2f/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/89cca38be9ff5bb63a035ef8a407dd2f/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:102:13-66
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:101:13-58
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:103:9-105:52
+	android:value
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:105:13-49
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:104:13-69
+service#com.abc.premiumvpn.service.MyFirebaseMessagingService
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:107:9-111:19
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:107:18-68
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:108:13-110:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:109:17-78
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:109:25-75
+service#com.abc.premiumvpn.service.MyFirebaseInstanceIDService
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:112:9-116:19
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:112:18-69
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:113:13-115:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:114:17-80
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:114:25-77
+receiver#com.abc.premiumvpn.service.BoostAlarm
+ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:118:9-56
+	android:name
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml:118:19-53
+uses-sdk
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+MERGED from [devlight.io:navigationtabbar:1.2.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/navigationtabbar-1.2.5.aar/809fca5afb8a73c4bac16c9897bdf4a6/AndroidManifest.xml:19:5-21:41
+MERGED from [devlight.io:navigationtabbar:1.2.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/navigationtabbar-1.2.5.aar/809fca5afb8a73c4bac16c9897bdf4a6/AndroidManifest.xml:19:5-21:41
+MERGED from [com.android.support:design:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/257cd11387c4a96d153eaa23e920971c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/257cd11387c4a96d153eaa23e920971c/AndroidManifest.xml:20:5-44
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/1850e7a81847fc7f95b58a734296768f/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/1850e7a81847fc7f95b58a734296768f/AndroidManifest.xml:8:5-11:75
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-DecoView-charting-v1.2.aar/e174f54c0de266a7f3dd0c545825ec14/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bmarrdev:android-DecoView-charting:v1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-DecoView-charting-v1.2.aar/e174f54c0de266a7f3dd0c545825ec14/AndroidManifest.xml:7:5-9:41
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/510ab3d37ef30acc50664f054abde771/AndroidManifest.xml:7:5-9:41
+MERGED from [me.itangqi.waveloadingview:library:0.3.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-0.3.5.aar/510ab3d37ef30acc50664f054abde771/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/FancyToast-Android-0.1.3.aar/629aedace95d82b358bb125eb1067c39/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyToast-Android:0.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/FancyToast-Android-0.1.3.aar/629aedace95d82b358bb125eb1067c39/AndroidManifest.xml:7:5-9:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.2.5.aar/ce6fd428dc35d0bdeaa60a354e1fda82/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/recyclerview-animators-2.2.5.aar/ce6fd428dc35d0bdeaa60a354e1fda82/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.Shashank02051997:FancyAlertDialog-Android:0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/FancyAlertDialog-Android-0.1.aar/6aa5ea44a753257583c5ebde181a998d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Shashank02051997:FancyAlertDialog-Android:0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/FancyAlertDialog-Android-0.1.aar/6aa5ea44a753257583c5ebde181a998d/AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/c54e22c73955939a56e22bb8e830c487/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/c54e22c73955939a56e22bb8e830c487/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a183973d843f85803acf48f877be479d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/a183973d843f85803acf48f877be479d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/db181d6bb59a51ac2b0d8ee61ada8172/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-17.1.2.aar/db181d6bb59a51ac2b0d8ee61ada8172/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/5500d20c4b3147701ca8f830ed738bb6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/5500d20c4b3147701ca8f830ed738bb6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/00de4b03340a00f5ae2a715578bfc56a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-16.0.0.aar/00de4b03340a00f5ae2a715578bfc56a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/bdeea45b04e67add74740a4c585728b5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-gass-17.1.2.aar/bdeea45b04e67add74740a4c585728b5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f14a2262727cc02c81e8278caed991f1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.1.aar/f14a2262727cc02c81e8278caed991f1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2bbd99f5c59811e5263749fe4a08bd19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2bbd99f5c59811e5263749fe4a08bd19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3209218b4f2dbc45620f5c9da040446f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/3209218b4f2dbc45620f5c9da040446f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8c07b201af7890e3daa7c61c642a3293/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-17.0.1.aar/8c07b201af7890e3daa7c61c642a3293/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-sdk-api-16.0.4.aar/e0d5c75628a1799b9c8a87999a36d5b5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a8fe17e1d4961c9dc7af6c469cf3fd25/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/a8fe17e1d4961c9dc7af6c469cf3fd25/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/1d7ce2053e4761e45c05d3cd55d581dc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-16.0.5.aar/1d7ce2053e4761e45c05d3cd55d581dc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/89cca38be9ff5bb63a035ef8a407dd2f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/89cca38be9ff5bb63a035ef8a407dd2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c9f3652a37828414e6931d945302371a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/c9f3652a37828414e6931d945302371a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/59b5a0c9aba4c1f8811c09a30218d106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/59b5a0c9aba4c1f8811c09a30218d106/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9021f943d5bfc620fe28b29c8ae75981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9021f943d5bfc620fe28b29c8ae75981/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/e7ae8d502141cb0295601e7032abb1e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/e7ae8d502141cb0295601e7032abb1e3/AndroidManifest.xml:20:5-44
+MERGED from [com.daimajia.numberprogressbar:library:1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/bff336b9ba42ec90d2f07af4e37f8dc4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.daimajia.numberprogressbar:library:1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.2.aar/bff336b9ba42ec90d2f07af4e37f8dc4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.amitshekhar.android:android-networking:0.2.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-networking-0.2.0.aar/ef503b90ce96ae2c65da202c9ede7ad9/AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:0.2.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-networking-0.2.0.aar/ef503b90ce96ae2c65da202c9ede7ad9/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c246a05488bfba208f21bbfe6516462/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c246a05488bfba208f21bbfe6516462/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:1.2.8] /Users/fayis/.gradle/caches/transforms-1/files-1.1/Circle-Progress-View-1.2.8.aar/03ac0b8bc0a716bae370ad34716e8eac/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jakob-grabner:Circle-Progress-View:1.2.8] /Users/fayis/.gradle/caches/transforms-1/files-1.1/Circle-Progress-View-1.2.8.aar/03ac0b8bc0a716bae370ad34716e8eac/AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/2df286d9edc144a7b3c497d25051b3ec/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/circleimageview-3.0.0.aar/2df286d9edc144a7b3c497d25051b3ec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/3a9e2f693fb33be8d086c99924e1e4f4/AndroidManifest.xml:3:5-72
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-aar-1.0.0.aar/3a9e2f693fb33be8d086c99924e1e4f4/AndroidManifest.xml:3:5-72
+MERGED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:7:5-9:41
+MERGED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.4.aar/2c6c1781996769ad4c831e36325da8fb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.4.aar/2c6c1781996769ad4c831e36325da8fb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.cardiomood.android:android-widgets:0.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-widgets-0.1.1.aar/5cdf23dc49f45cba45816ef3e923d6c1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.cardiomood.android:android-widgets:0.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/android-widgets-0.1.1.aar/5cdf23dc49f45cba45816ef3e923d6c1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/6f17b873db65f298b018f41616458005/AndroidManifest.xml:7:5-9:41
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/library-1.0.1.aar/6f17b873db65f298b018f41616458005/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zys:brokenview:1.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/brokenview-1.0.3.aar/608b72905b63cbe938ce1bca088de2e2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.zys:brokenview:1.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/brokenview-1.0.3.aar/608b72905b63cbe938ce1bca088de2e2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/40112b5c6ebe640617581254ee391ac7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/40112b5c6ebe640617581254ee391ac7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5d6b53813e6e328b78a4694bb3f445f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/5d6b53813e6e328b78a4694bb3f445f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f4f1e771929163de41751cf4e0fa46b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f4f1e771929163de41751cf4e0fa46b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/823716c68a5ad1f393aeb135a0943c83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/823716c68a5ad1f393aeb135a0943c83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0c810234e1cbbe0ef189664a8911ebd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0c810234e1cbbe0ef189664a8911ebd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/05fccca9c81738f1f4ca248f2bd109de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/05fccca9c81738f1f4ca248f2bd109de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7bff45573ba3c73a88c27312fb4e8823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/7bff45573ba3c73a88c27312fb4e8823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2f7ed736afc70b4ab79eec270e8dff20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2f7ed736afc70b4ab79eec270e8dff20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f53c43af1d3430a399b0e9b4cd572a76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f53c43af1d3430a399b0e9b4cd572a76/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0cb7e7db4270cabca538393543fd5358/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-17.1.2.aar/0cb7e7db4270cabca538393543fd5358/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/02bc017e5b42edef277fe3e9ff0b9270/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/02bc017e5b42edef277fe3e9ff0b9270/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/15667a3b7eab596bc781553afdf9c69b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/15667a3b7eab596bc781553afdf9c69b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03d6b4d85826a158565867303bbc6464/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03d6b4d85826a158565867303bbc6464/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2d94fc9f6402d0be74ed7e0637a6362d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2d94fc9f6402d0be74ed7e0637a6362d/AndroidManifest.xml:20:5-44
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/1850e7a81847fc7f95b58a734296768f/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fayis/Downloads/Pro VPN 2019 Android/app/src/main/AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/5500d20c4b3147701ca8f830ed738bb6/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/5500d20c4b3147701ca8f830ed738bb6/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.3.4.aar/5500d20c4b3147701ca8f830ed738bb6/AndroidManifest.xml:29:13-82
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.1.2] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-17.1.2.aar/8e48813d246647858c3eebcbb5f3fd65/AndroidManifest.xml:36:13-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:26:22-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-iid-17.0.4.aar/6a029dc30db9ab658350ab27c2624365/AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/fayis/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.3.aar/7d78d0d43188c8b5135687b746b08634/AndroidManifest.xml:11:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2bbd99f5c59811e5263749fe4a08bd19/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2bbd99f5c59811e5263749fe4a08bd19/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2bbd99f5c59811e5263749fe4a08bd19/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/fayis/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/2bbd99f5c59811e5263749fe4a08bd19/AndroidManifest.xml:24:13-79
+provider#net.grandcentrix.tray.provider.TrayContentProvider
+ADDED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:12:9-16:44
+	android:authorities
+		ADDED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:14:13-56
+	android:multiprocess
+		ADDED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:16:13-41
+	android:exported
+		ADDED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [net.grandcentrix.tray:tray:0.12.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/tray-0.12.0.aar/67e97508ce610ca890789abbd75152ed/AndroidManifest.xml:13:13-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2f7ed736afc70b4ab79eec270e8dff20/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2f7ed736afc70b4ab79eec270e8dff20/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] /Users/fayis/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/2f7ed736afc70b4ab79eec270e8dff20/AndroidManifest.xml:24:13-51
